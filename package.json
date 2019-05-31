@@ -1,0 +1,29 @@
+{
+  "name": "@aifeipeng/eslint-config-myconfig",
+  "version": "1.5.0",
+  "description": "eslintRules",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aifeipeng/eslint_rules.git"
+  },
+  "keywords": [
+    "eslint",
+    "rules"
+  ],
+  "author": "aifeipeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aifeipeng/eslint_rules/issues"
+  },
+  "homepage": "https://github.com/aifeipeng/eslint_rules#readme",
+  "dependencies": {
+    "eslint-config-strongloop": "^2.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 5"
+  }
+}
